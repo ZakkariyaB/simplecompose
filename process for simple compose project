@@ -1,0 +1,5 @@
+1.optimize the code
+2.add app to docker hub
+3.create 2 seperate repo (infra & app)
+4.start EC2
+deploy app using infra
